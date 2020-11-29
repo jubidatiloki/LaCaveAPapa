@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La cave à papa</string>
+
+
+    <string name="historic_action_remove">retrait</string>
+    <string name="historic_action_add">ajout</string>
+    <string name="historic_action_edit">modification</string>
+</resources>

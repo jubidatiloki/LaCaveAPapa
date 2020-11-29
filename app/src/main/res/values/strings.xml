@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">LaCaveAPapa</string>
+    <string name="app_name">Dad\'s cave</string>
+
+    <string name="historic_action_remove">remove</string>
+    <string name="historic_action_add">add</string>
+    <string name="historic_action_edit">edit</string>
 </resources>

@@ -1,7 +1,8 @@
-package fr.procorp.lacaveapapa
+package fr.procorp.lacaveapapa.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import fr.procorp.lacaveapapa.R
 
 class MainActivity : AppCompatActivity() {
 
