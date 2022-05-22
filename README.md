@@ -20,7 +20,7 @@ Application de gestion de sa cave
 - gestion d'un historique des différentes actions
 
 
-# V2
+# V2 - thèmes graphique et export/import
 
 ## Design
 - possibilité de changer le thème de l'application
@@ -28,3 +28,10 @@ Application de gestion de sa cave
 ## Fonctionnalités
 - export de caves en pdf/ txt
 - import de caves
+
+# V3 - ajout par photo (not sure yet)
+- ajout de l'alcool par photo de l'étiquette
+
+# V4 - API et conseils
+- utilisation d'une api pour avoir une base de données d'alcool plus pertinente
+- ajout de conseils de consommation pour les différents alcools
