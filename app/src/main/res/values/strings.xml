@@ -10,4 +10,21 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+
+<!--    Liquor type  -->
+    <string name="LIQUOR_TYPE_LABEL_BEER">bière</string>
+    <string name="LIQUOR_TYPE_LABEL_RED_WINE">vin rouge</string>
+    <string name="LIQUOR_TYPE_LABEL_WHITE_WINE">vin blanc</string>
+    <string name="LIQUOR_TYPE_LABEL_ROSE_WINE">vin rosé</string>
+    <string name="LIQUOR_TYPE_LABEL_WHISKEY">whisky</string>
+    <string name="LIQUOR_TYPE_LABEL_RHUM">rhum</string>
+
+
+<!--    Historic action  -->
+    <string name="HISTORIC_ACTION_LABEL_RETRIEVAL">retrait</string>
+    <string name="HISTORIC_ACTION_LABEL_ADD">ajout</string>
+    <string name="HISTORIC_ACTION_LABEL_EDIT">modification</string>
+
+
 </resources>
